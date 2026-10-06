@@ -1,0 +1,15 @@
+# Environment variables / secrets
+.env
+*.env
+
+# Local Spring configuration
+**/application-local.properties
+**/application-secret.properties
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Build files
+target/
