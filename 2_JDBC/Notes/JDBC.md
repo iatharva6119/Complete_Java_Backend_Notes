@@ -117,6 +117,7 @@ Example:
 
 ## 6. JDBC Interfaces & Implementations
 
+
 - Java provides only **interfaces** like `Connection`, `Statement`, `ResultSet`, etc.
 - The **database vendors (like MySQL, Oracle, MongoDB)** provide **implementations** for these interfaces through their drivers.
 
