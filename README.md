@@ -374,11 +374,11 @@ New notes, examples, and implementations will be added over time.
 
 ## Author
 
-**Atharva Mahulkar**
+**Atharva Desai**
 
-GitHub: [atharvaM89](https://github.com/atharvaM89)
+GitHub: [iatharva6119](https://github.com/iatharva6119)
 
-Portfolio: [atharvam89.github.io/Portfolio](https://atharvam89.github.io/Portfolio/)
+Portfolio: [iatharva6119.github.io/Portfolio](https://iatharvam6119.github.io/Portfolio/)
 
 LinkedIn: [Atharva Mahulkar](https://www.linkedin.com/)
 
