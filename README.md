@@ -378,9 +378,7 @@ New notes, examples, and implementations will be added over time.
 
 GitHub: [iatharva6119](https://github.com/iatharva6119)
 
-Portfolio: [iatharva6119.github.io/Portfolio](https://iatharvam6119.github.io/Portfolio/)
-
-LinkedIn: [Atharva Mahulkar](https://www.linkedin.com/)
+LinkedIn: [Atharva Desai]([https://www.linkedin.com/](https://www.linkedin.com/in/atharva-desai-754630252))
 
 ---
 
